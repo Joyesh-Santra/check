@@ -1,8 +1,15 @@
 {
   "date": "09-April-2026",
-  "totalXP": 0,
-  "tasks": [],
+  "totalXP": 57,
+  "tasks": [
+    {
+      "name": "dfdfd",
+      "hours": 1.25,
+      "xp": 57,
+      "category": "coding"
+    }
+  ],
   "wakeTime": null,
   "sleepTime": null,
-  "buildings": 0
+  "buildings": 2
 }
